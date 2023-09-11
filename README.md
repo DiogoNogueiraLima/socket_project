@@ -1,5 +1,5 @@
 # Contexto
-Este é um projeto da disciplina de redes de computadores do terceiro semestre do curso de Sistemas de Informação - CIn - UFPE, no qual foi solicitado a criação de alguns sockets. Um deles deveria funcionar como um DNS (cliente e servidor) (serviço de nomes), outro deve possuir um serviço que contenha o protocolo UDP (cliente e servidor) e outro com o mesmo serviço que o contenha o protocolo TCP. Ao final deveria ser feito um comparativo entre os tempos de execução dos dois protocolos da camada de transporte juntamente com uma analise de uma captura wireshark contendo todos os pacotes necessarios para realizar todo processo.
+Este é um projeto da disciplina de redes de computadores do terceiro semestre do curso de Sistemas de Informação - CIn - UFPE, no qual foi solicitado a criação de alguns sockets. Um deles deveria funcionar como um DNS (cliente e servidor) (serviço de nomes), outro deve possuir um serviço que contenha o protocolo UDP (cliente e servidor) e outro com o mesmo serviço que o contenha o protocolo TCP (cliente e servidor). Ao final deveria ser feito um comparativo entre os tempos de execução dos dois protocolos da camada de transporte juntamente com uma analise de uma captura wireshark contendo todos os pacotes necessarios para realizar todo processo.
 
 # Serviço Desenvolvido:
 
