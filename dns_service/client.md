@@ -2,6 +2,7 @@
 # CLIENTE DNS
 import socket
 
+# criando o socket com protocolo udp
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 # escolhendo o serviço
