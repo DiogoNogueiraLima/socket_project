@@ -2,7 +2,7 @@
 
 Para demonstrar a funcionalidade do serviço e capturar o tráfego de rede relacionado a ele, foi realizada uma série de etapas usando o Wireshark:
 
-## 1. Inicialização do Servidor DNS:
+### 1. Inicialização do Servidor DNS:
 Primeiramente, o servidor DNS foi iniciado. O DNS (Domain Name System) é um sistema que traduz nomes de domínio em endereços IP. A ideia da nossa aplicação é que ao cliente fazer uma requisição de serviço, o servidor DNS retorna o IP e a porta ao qual esse serviço esteja funcionando.
 
 ## Inicialização do Servidor UDP:
