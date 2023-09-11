@@ -1,4 +1,5 @@
-# Este é um projeto da disciplina de redes de computadores do terceiro semestre do curso de Sistemas de Informação - CIn - UFPE
+# Contexto
+Este é um projeto da disciplina de redes de computadores do terceiro semestre do curso de Sistemas de Informação - CIn - UFPE
 
 # Serviço Desenvolvido:
 
