@@ -24,9 +24,6 @@ if new_port != 'Not found, server não encontrado!':
     resposta, server_address = client_socket.recvfrom(1024)
     print(resposta.decode())
 
-else:
-    pass
-
 # fechando a conexao
 client_socket.close()
 
